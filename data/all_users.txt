@@ -1,0 +1,7 @@
+user, sathi@gmail.com, 54321, sathi
+user, asif@gmail.com, 12345, asif
+admin, suranjit@gmail.com, 12345, suranjit
+user, antu@gmail.com, 12345, antu
+manager, abhijit@gmail.com, 12345, abhijit
+user, kobita, kobita@gmail.com, 23456
+user, bolai@gmail.com, 12345, bolai 
